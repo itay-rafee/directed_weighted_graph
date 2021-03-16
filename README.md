@@ -1,5 +1,5 @@
 
-# EX3
+# Directed Weighted Graph
 Object Oriented Course Assignment - Creating and Implementing Directed Weighted Graph Theory.
 
 
